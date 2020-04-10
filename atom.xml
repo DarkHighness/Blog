@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Twilight Spring</title>
+  <icon>https://twiliness.xyz//img/avatar.png</icon>
+  <subtitle>Twiliness&#39;s Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://twiliness.xyz/"/>
+  <updated>2019-12-28T15:58:59.726Z</updated>
+  <id>https://twiliness.xyz/</id>
+  
+  <author>
+    <name>Twiliness</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Martin Lof Type Theory</title>
+    <link href="https://twiliness.xyz/2019/12/28/Martin-Lof-Type-Theory/"/>
+    <id>https://twiliness.xyz/2019/12/28/Martin-Lof-Type-Theory/</id>
+    <published>2019-12-28T15:52:42.000Z</published>
+    <updated>2019-12-28T15:58:59.726Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="函数式编程 ( Functional Programming )" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/"/>
+    
+      <category term="λ 演算" scheme="https://twiliness.xyz/categories/%CE%BB-%E6%BC%94%E7%AE%97/"/>
+    
+      <category term="直观主义类型论 (Type Theory Intuitionistic)" scheme="https://twiliness.xyz/categories/%E7%9B%B4%E8%A7%82%E4%B8%BB%E4%B9%89%E7%B1%BB%E5%9E%8B%E8%AE%BA-Type-Theory-Intuitionistic/"/>
+    
+    
+      <category term="函数式编程 (Functional Programming )" scheme="https://twiliness.xyz/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="λ 演算 (λ Calculus)" scheme="https://twiliness.xyz/tags/%CE%BB-%E6%BC%94%E7%AE%97-%CE%BB-Calculus/"/>
+    
+      <category term="直观主义类型论(Type Theory Intuitionistic)" scheme="https://twiliness.xyz/tags/%E7%9B%B4%E8%A7%82%E4%B8%BB%E4%B9%89%E7%B1%BB%E5%9E%8B%E8%AE%BA-Type-Theory-Intuitionistic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java-Synchronizers</title>
+    <link href="https://twiliness.xyz/2019/10/26/Java-Synchronizers/"/>
+    <id>https://twiliness.xyz/2019/10/26/Java-Synchronizers/</id>
+    <published>2019-10-26T13:07:06.000Z</published>
+    <updated>2019-10-26T13:54:28.073Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://twiliness.xyz/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://twiliness.xyz/tags/Java/"/>
+    
+      <category term="Synchronizers" scheme="https://twiliness.xyz/tags/Synchronizers/"/>
+    
+      <category term="Multi Thread" scheme="https://twiliness.xyz/tags/Multi-Thread/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈一谈Java反射 (下)</title>
+    <link href="https://twiliness.xyz/2019/10/26/Java-Reflection-02/"/>
+    <id>https://twiliness.xyz/2019/10/26/Java-Reflection-02/</id>
+    <published>2019-10-26T08:27:30.000Z</published>
+    <updated>2019-10-26T10:13:59.545Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://twiliness.xyz/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://twiliness.xyz/tags/Java/"/>
+    
+      <category term="Reflection ( 反射 )" scheme="https://twiliness.xyz/tags/Reflection-%E5%8F%8D%E5%B0%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈一谈Java反射 (上)</title>
+    <link href="https://twiliness.xyz/2019/10/26/Java-Reflection-01/"/>
+    <id>https://twiliness.xyz/2019/10/26/Java-Reflection-01/</id>
+    <published>2019-10-25T16:04:09.000Z</published>
+    <updated>2019-10-26T08:29:39.441Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://twiliness.xyz/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://twiliness.xyz/tags/Java/"/>
+    
+      <category term="Reflection ( 反射 )" scheme="https://twiliness.xyz/tags/Reflection-%E5%8F%8D%E5%B0%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>字符串匹配03 - KMP 算法</title>
+    <link href="https://twiliness.xyz/2019/10/07/String-Matching-03-KMP/"/>
+    <id>https://twiliness.xyz/2019/10/07/String-Matching-03-KMP/</id>
+    <published>2019-10-07T06:14:02.000Z</published>
+    <updated>2019-10-07T06:31:56.659Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="字符串匹配 ( String Matching )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D-String-Matching/"/>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="字符串匹配 ( String Matching )" scheme="https://twiliness.xyz/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D-String-Matching/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>字符串匹配02 - Sunday 算法</title>
+    <link href="https://twiliness.xyz/2019/10/07/String-Matching-02-Sunday/"/>
+    <id>https://twiliness.xyz/2019/10/07/String-Matching-02-Sunday/</id>
+    <published>2019-10-07T05:48:12.000Z</published>
+    <updated>2019-10-07T06:28:41.832Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="字符串匹配 ( String Matching )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D-String-Matching/"/>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="字符串匹配 ( String Matching )" scheme="https://twiliness.xyz/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D-String-Matching/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>字符串匹配01 - Brute-Force算法</title>
+    <link href="https://twiliness.xyz/2019/10/07/String-Matching-01-Brute-Force/"/>
+    <id>https://twiliness.xyz/2019/10/07/String-Matching-01-Brute-Force/</id>
+    <published>2019-10-07T05:22:52.000Z</published>
+    <updated>2019-10-07T06:28:48.487Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="字符串匹配 ( String Matching )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D-String-Matching/"/>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="字符串匹配 ( String Matching )" scheme="https://twiliness.xyz/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D-String-Matching/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>主定理 Master Theorem</title>
+    <link href="https://twiliness.xyz/2019/10/04/Master-Theorem/"/>
+    <id>https://twiliness.xyz/2019/10/04/Master-Theorem/</id>
+    <published>2019-10-04T00:00:00.000Z</published>
+    <updated>2019-10-07T05:25:49.655Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法分析 (Analysis of Algorithms)" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Analysis-of-Algorithms/"/>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="算法分析 (Analysis of Algorithms)" scheme="https://twiliness.xyz/tags/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-Analysis-of-Algorithms/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国庆期间与两群🕊的重庆欢乐谷之行</title>
+    <link href="https://twiliness.xyz/2019/10/03/Daily-Life-01/"/>
+    <id>https://twiliness.xyz/2019/10/03/Daily-Life-01/</id>
+    <published>2019-10-03T00:00:00.000Z</published>
+    <updated>2019-10-04T15:52:45.267Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日常生活 (Daily Life)" scheme="https://twiliness.xyz/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB-Daily-Life/"/>
+    
+    
+      <category term="日常生活 (Daily Life)" scheme="https://twiliness.xyz/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB-Daily-Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>拉回 Pullbacks</title>
+    <link href="https://twiliness.xyz/2019/10/02/Pullbacks/"/>
+    <id>https://twiliness.xyz/2019/10/02/Pullbacks/</id>
+    <published>2019-10-02T13:39:00.000Z</published>
+    <updated>2019-10-05T02:31:40.252Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="函数式编程 ( Functional Programming )" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/"/>
+    
+      <category term="范畴论 ( Category Theory )" scheme="https://twiliness.xyz/categories/%E8%8C%83%E7%95%B4%E8%AE%BA-Category-Theory/"/>
+    
+    
+      <category term="函数式编程 (Functional Programming )" scheme="https://twiliness.xyz/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="范畴论 ( Category Theory )" scheme="https://twiliness.xyz/tags/%E8%8C%83%E7%95%B4%E8%AE%BA-Category-Theory/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/tags/Haskell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>堆 Heap</title>
+    <link href="https://twiliness.xyz/2019/09/30/Heap/"/>
+    <id>https://twiliness.xyz/2019/09/30/Heap/</id>
+    <published>2019-09-30T12:30:00.000Z</published>
+    <updated>2019-10-13T05:03:50.930Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+    
+      <category term="堆 (Heap)" scheme="https://twiliness.xyz/tags/%E5%A0%86-Heap/"/>
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="作业 ( Homework )" scheme="https://twiliness.xyz/tags/%E4%BD%9C%E4%B8%9A-Homework/"/>
+    
+      <category term="CPlusPlus" scheme="https://twiliness.xyz/tags/CPlusPlus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>替罪羊树 Scape Goat Tree</title>
+    <link href="https://twiliness.xyz/2019/09/30/ScapeGoat/"/>
+    <id>https://twiliness.xyz/2019/09/30/ScapeGoat/</id>
+    <published>2019-09-30T12:30:00.000Z</published>
+    <updated>2019-10-07T05:25:43.401Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="二叉搜索树 ( Binary Search Tree )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-Binary-Search-Tree/"/>
+    
+      <category term="替罪羊树 ( Scape Goat Tree )" scheme="https://twiliness.xyz/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-Binary-Search-Tree/%E6%9B%BF%E7%BD%AA%E7%BE%8A%E6%A0%91-Scape-Goat-Tree/"/>
+    
+      <category term="学校作业 ( Homework )" scheme="https://twiliness.xyz/categories/%E5%AD%A6%E6%A0%A1%E4%BD%9C%E4%B8%9A-Homework/"/>
+    
+    
+      <category term="算法与数据结构 ( Algorithm &amp; Data Structure )" scheme="https://twiliness.xyz/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Algorithm-Data-Structure/"/>
+    
+      <category term="作业 ( Homework )" scheme="https://twiliness.xyz/tags/%E4%BD%9C%E4%B8%9A-Homework/"/>
+    
+      <category term="CPlusPlus" scheme="https://twiliness.xyz/tags/CPlusPlus/"/>
+    
+      <category term="替罪羊树 ( Scape Goat Tree )" scheme="https://twiliness.xyz/tags/%E6%9B%BF%E7%BD%AA%E7%BE%8A%E6%A0%91-Scape-Goat-Tree/"/>
+    
+      <category term="二叉搜索树 ( Binary Search Tree )" scheme="https://twiliness.xyz/tags/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-Binary-Search-Tree/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Guest</title>
+    <link href="https://twiliness.xyz/2019/09/29/Hello-Guest/"/>
+    <id>https://twiliness.xyz/2019/09/29/Hello-Guest/</id>
+    <published>2019-09-29T09:35:00.000Z</published>
+    <updated>2019-10-02T16:10:28.085Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="你好世界 ( Hello World )" scheme="https://twiliness.xyz/categories/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C-Hello-World/"/>
+    
+    
+      <category term="你好,世界 ( Hello World )" scheme="https://twiliness.xyz/tags/%E4%BD%A0%E5%A5%BD-%E4%B8%96%E7%95%8C-Hello-World/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Odd + Even = Odd? Prove it!</title>
+    <link href="https://twiliness.xyz/2019/07/30/Odd-+-Even-=-Odd-Prove-it!/"/>
+    <id>https://twiliness.xyz/2019/07/30/Odd-+-Even-=-Odd-Prove-it!/</id>
+    <published>2019-07-29T16:00:00.000Z</published>
+    <updated>2019-10-05T03:12:29.722Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="函数式编程 ( Functional Programming )" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/"/>
+    
+      <category term="Codewars" scheme="https://twiliness.xyz/categories/Codewars/"/>
+    
+    
+      <category term="函数式编程 (Functional Programming )" scheme="https://twiliness.xyz/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Codewars - Haskell" scheme="https://twiliness.xyz/tags/Codewars-Haskell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scott Encoding</title>
+    <link href="https://twiliness.xyz/2019/07/22/Scott-Encoding/"/>
+    <id>https://twiliness.xyz/2019/07/22/Scott-Encoding/</id>
+    <published>2019-07-21T16:00:00.000Z</published>
+    <updated>2019-10-05T03:08:01.983Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="函数式编程 ( Functional Programming )" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/"/>
+    
+      <category term="λ 演算" scheme="https://twiliness.xyz/categories/%CE%BB-%E6%BC%94%E7%AE%97/"/>
+    
+      <category term="Codewars" scheme="https://twiliness.xyz/categories/Codewars/"/>
+    
+    
+      <category term="函数式编程 (Functional Programming )" scheme="https://twiliness.xyz/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="λ 演算 (λ Calculus)" scheme="https://twiliness.xyz/tags/%CE%BB-%E6%BC%94%E7%AE%97-%CE%BB-Calculus/"/>
+    
+      <category term="Codewars - Haskell" scheme="https://twiliness.xyz/tags/Codewars-Haskell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Five Fundamental Monads</title>
+    <link href="https://twiliness.xyz/2019/07/21/Five-Fundamental-Monads/"/>
+    <id>https://twiliness.xyz/2019/07/21/Five-Fundamental-Monads/</id>
+    <published>2019-07-20T16:00:00.000Z</published>
+    <updated>2019-10-05T03:00:58.839Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="函数式编程 ( Functional Programming )" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/"/>
+    
+      <category term="Monad" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/Monad/"/>
+    
+      <category term="范畴论 ( Category Theory )" scheme="https://twiliness.xyz/categories/%E8%8C%83%E7%95%B4%E8%AE%BA-Category-Theory/"/>
+    
+    
+      <category term="函数式编程 (Functional Programming ) - 范畴论 ( Category Theory ) - Haskell" scheme="https://twiliness.xyz/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming-%E8%8C%83%E7%95%B4%E8%AE%BA-Category-Theory-Haskell/"/>
+    
+      <category term="单子 ( Monad )" scheme="https://twiliness.xyz/tags/%E5%8D%95%E5%AD%90-Monad/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>抽象与组合的艺术 范畴论</title>
+    <link href="https://twiliness.xyz/2019/07/20/Arts-Of-Abstraction-And-Composition/"/>
+    <id>https://twiliness.xyz/2019/07/20/Arts-Of-Abstraction-And-Composition/</id>
+    <published>2019-07-19T16:00:00.000Z</published>
+    <updated>2019-10-05T02:51:16.592Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="函数式编程 ( Functional Programming )" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/"/>
+    
+      <category term="范畴论 ( Category Theory )" scheme="https://twiliness.xyz/categories/%E8%8C%83%E7%95%B4%E8%AE%BA-Category-Theory/"/>
+    
+    
+      <category term="函数式编程 (Functional Programming ) - 范畴论 ( Category Theory ) - Haskell" scheme="https://twiliness.xyz/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming-%E8%8C%83%E7%95%B4%E8%AE%BA-Category-Theory-Haskell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>乘法交换律与结合律的证明</title>
+    <link href="https://twiliness.xyz/2019/07/01/Prove-Mul-Comm-And-Assoc/"/>
+    <id>https://twiliness.xyz/2019/07/01/Prove-Mul-Comm-And-Assoc/</id>
+    <published>2019-06-30T16:00:00.000Z</published>
+    <updated>2019-10-05T03:07:46.469Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="函数式编程 ( Functional Programming )" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/"/>
+    
+      <category term="Codewars" scheme="https://twiliness.xyz/categories/Codewars/"/>
+    
+    
+      <category term="函数式编程 (Functional Programming ) - Codewars - Haskell" scheme="https://twiliness.xyz/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming-Codewars-Haskell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Recursion Schemes</title>
+    <link href="https://twiliness.xyz/2019/04/28/Recursion-Schemes/"/>
+    <id>https://twiliness.xyz/2019/04/28/Recursion-Schemes/</id>
+    <published>2019-04-27T16:00:00.000Z</published>
+    <updated>2019-10-05T03:07:55.946Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="函数式编程 ( Functional Programming )" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/"/>
+    
+      <category term="Haskell" scheme="https://twiliness.xyz/categories/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming/Haskell/"/>
+    
+      <category term="递归化数据结构 ( Recursion Schemes )" scheme="https://twiliness.xyz/categories/%E9%80%92%E5%BD%92%E5%8C%96%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Recursion-Schemes/"/>
+    
+    
+      <category term="函数式编程 (Functional Programming ) - Haskell" scheme="https://twiliness.xyz/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Functional-Programming-Haskell/"/>
+    
+      <category term="递归化数据结构 ( Recursion Schemes )" scheme="https://twiliness.xyz/tags/%E9%80%92%E5%BD%92%E5%8C%96%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Recursion-Schemes/"/>
+    
+  </entry>
+  
+</feed>
